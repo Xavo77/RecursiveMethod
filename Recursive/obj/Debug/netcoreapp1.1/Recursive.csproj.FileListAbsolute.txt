@@ -1,0 +1,9 @@
+C:\C#\MethodRecursive\Recursive\Recursive\bin\Debug\netcoreapp1.1\Recursive.deps.json
+C:\C#\MethodRecursive\Recursive\Recursive\bin\Debug\netcoreapp1.1\Recursive.runtimeconfig.json
+C:\C#\MethodRecursive\Recursive\Recursive\bin\Debug\netcoreapp1.1\Recursive.runtimeconfig.dev.json
+C:\C#\MethodRecursive\Recursive\Recursive\bin\Debug\netcoreapp1.1\Recursive.dll
+C:\C#\MethodRecursive\Recursive\Recursive\bin\Debug\netcoreapp1.1\Recursive.pdb
+C:\C#\MethodRecursive\Recursive\Recursive\obj\Debug\netcoreapp1.1\Recursive.csprojResolveAssemblyReference.cache
+C:\C#\MethodRecursive\Recursive\Recursive\obj\Debug\netcoreapp1.1\Recursive.AssemblyInfo.cs
+C:\C#\MethodRecursive\Recursive\Recursive\obj\Debug\netcoreapp1.1\Recursive.dll
+C:\C#\MethodRecursive\Recursive\Recursive\obj\Debug\netcoreapp1.1\Recursive.pdb
